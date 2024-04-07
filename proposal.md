@@ -10,7 +10,7 @@
 
 ### Repositorios
 * [frontend app]
-* [backend app]
+* [backend app]  <br>
 COMPLETAR
 
 ## Tema
@@ -28,5 +28,5 @@ https://imgur.com/a/IDiH8vp
 |:-|:-|
 |CRUD simple|1. CRUD Vuelo<br>2. CRUD Cliente<br>3. CRUD Usuario<br>4. CRUD Pasaje<br>5. CRUD Staff<br>6. CRUD Tripulacion<br>7. CRUD Aeropuerto<br>8. CRUD Historial-Vuelo<br>9. CRUD Pago<br>10. CRUD Localidad|
 |CRUD dependiente|1. CRUD Aeropuerto {depende de} CRUD Localidad<br> 2. CRUD Historial-Vuelo {depende de} CRUD Vuelo|
-|Listado<br>+<br>detalle| 1. Listado de vuelos realizados filtrado por fecha, muestra códigodeVuelo, aerolinea, horaDespegue, horaAterrizaje y destino.<br> 2. Listado de vuelos disponibles filtrado por destino y nro pasajeros, muestra, aerolínea, fechaDespegue, horaDespegue,  precio. <br> 3.Listado de Clientes que realizaron un viaje filtadro por codigodeVuelo, muestra dni, nombre, apellido, edad, telefono, checking, cantper.|
+|Listado<br>+<br>detalle| 1. Listado de vuelos realizados filtrado por fecha, muestra códigodeVuelo, aerolinea, horaDespegue, horaAterrizaje y destino.<br> 2. Listado de vuelos disponibles filtrado por destino y nro pasajeros, muestra, aerolínea, fechaDespegue, horaDespegue,  precio. <br> 3.Listado de Clientes que realizaron un viaje filtadro por codigodeVuelo, muestra dni, nombre, apellido, edad, telefono, email.|
 |CUU/Epic|COMPLETAR|
