@@ -12,7 +12,7 @@
 Se desarrolla una plataforma para ofrecer información relevante a los clientes y miembros de staff respecto a los vuelos que realiza una determinada aerolínea, sumado a la posibilidad de poder realizar la compra de pasajes por medio de la misma plataforma.
 
 ### Modelo de Dominio
-https://imgur.com/a/IDiH8vp
+https://i.imgur.com/gU2fT8B.png
 
 ## Alcance Funcional 
 
